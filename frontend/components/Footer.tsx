@@ -377,7 +377,7 @@ export default function Footer() {
             </p>
 
             <p className="text-center tracking-wider text-sand/85">
-              Developed by: <span className="font-semibold text-paper">Jake Lupig</span>
+              Developed by: <span className="font-semibold text-paper tracking-wider">JAKE LUPIG</span>
             </p>
 
             <p className="text-center md:text-right">
