@@ -1,0 +1,59 @@
+<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .ink { stroke: #171412; }
+    .ribbon { fill: #C85A32; stroke: #C85A32; }
+    @media (prefers-color-scheme: dark) {
+      .ink { stroke: #FBF8F3; }
+      .ribbon { fill: #E87A54; stroke: #E87A54; }
+    }
+  </style>
+  <path
+    class="ink"
+    d="M2.5 23.8C6.8 22.1 11.8 22.7 16 25.5C20.2 22.7 25.2 22.1 29.5 23.8"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    opacity="0.65"
+  />
+  <path
+    class="ink"
+    d="M16 9.2C12.3 6.2 7.2 5.8 2.8 7.3V20.8C7.2 19.3 12.3 19.7 16 22.7"
+    stroke-width="2.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    class="ink"
+    d="M16 9.2C19.7 6.2 24.8 5.8 29.2 7.3V20.8C24.8 19.3 19.7 19.7 16 22.7"
+    stroke-width="2.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    class="ink"
+    d="M16 9.2V25.5"
+    stroke-width="2"
+    stroke-linecap="round"
+  />
+  <path
+    class="ink"
+    d="M6.8 11.8C9 11.3 11.1 11.5 12.8 12.4"
+    stroke-width="1.5"
+    stroke-linecap="round"
+    opacity="0.7"
+  />
+  <path
+    class="ink"
+    d="M6.8 15.4C9 14.9 11.1 15.1 12.8 16"
+    stroke-width="1.5"
+    stroke-linecap="round"
+    opacity="0.7"
+  />
+  <path
+    class="ribbon"
+    d="M21 6.4V16L23.1 14.3L25.2 16V6.7"
+    stroke-width="1.2"
+    stroke-linejoin="round"
+  />
+</svg>
+
